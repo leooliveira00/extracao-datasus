@@ -1,0 +1,8 @@
+*.exe
+log.txt
+DataSus/
+__pycache__/
+*.pyc
+venv/
+.env
+.vscode/
